@@ -1,0 +1,10 @@
+{
+  "jhipster2App": {
+    "Idioma": {
+      "null": "",
+      "ESPANOL": "ESPANOL",
+      "INGLES": "INGLES",
+      "PORTUGUES": "PORTUGUES"
+    }
+  }
+}
